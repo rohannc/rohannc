@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Rohan Chakraborty!
 
-![Profile Banner](https://raw.githubusercontent.com/rohannc/rohannc/main/images/banner.png)
-
-I'm an MCA student at **Jadavpur University**, Kolkata, with a passion for solving problems through code. I thrive on building innovative solutions, competing in hackathons, and exploring new technologies. When I'm not coding, you can find me diving into mystery-solving challenges or brainstorming my next big project!
+    I'm an MCA student at **Jadavpur University**, Kolkata, with a passion for solving problems through code. I thrive on building innovative solutions, competing in hackathons, and exploring new technologies. When I'm not coding, you can find me diving into mystery-solving challenges or brainstorming my next big project!
 
 ---
 
@@ -11,13 +9,14 @@ I'm an MCA student at **Jadavpur University**, Kolkata, with a passion for solvi
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Jadavpur University
 - 🌍 Based in **Kolkata, India**
 - 💻 Enthusiast of **full-stack development**, competitive programming, and open-source contributions
-- 🏆 Winner of **WBJECA 2024** and **EUREKA - Mystery Solving Competition 2023**
-- 🌟 Active on [Codolio](https://codolio.com/profile/Rohann) and other coding platforms
+- 🏆 Winner of **Error 404 - Coding Competition 2025** and **EUREKA - Mystery Solving Competition 2023**
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/rohannc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://codolio.com/profile/Rohann"><img src="https://img.shields.io/badge/Codolio-00C4B4?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"></a>
   <a href="mailto:rohannc@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/rohanch0108003/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="Email"></a>
+  <a href="https://www.geeksforgeeks.org/user/rohannju/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white" alt="Email"></a>
 </div>
 
 ---
