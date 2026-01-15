@@ -68,14 +68,24 @@ Here are some milestones I'm proud of:
 - **🌟 Hackathon Enthusiast**: Participated in multiple coding competitions, solving complex problems under pressure.
 - **💻 Codolio Profile**: Active contributor with a strong presence on [Codolio](https://codolio.com/profile/Rohann).
 
+## 👤 Profile Overview
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohannc&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohannc&theme=github_dark" alt="Profile Details">
 </div>
 
-## 📊 GitHub Analytics
+## 📊 General Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rohannc&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohannc&theme=github_dark" alt="General Stats">
+</div>
+
+## 💻 Language Analysis
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohannc&theme=github_dark" alt="Repos Per Language">
+  &nbsp; 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohannc&theme=github_dark" alt="Most Commits Language">
 </div>
 
 ---
