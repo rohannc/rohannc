@@ -69,13 +69,13 @@ Here are some milestones I'm proud of:
 - **💻 Codolio Profile**: Active contributor with a strong presence on [Codolio](https://codolio.com/profile/Rohann).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohannc&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohannc&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME_HERE&theme=radical" alt="GitHub Streak Stats">
 </div>
 
 ---
